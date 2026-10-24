@@ -1,6 +1,4 @@
-# Same weight, different loss
-
-**The weak-form discretization sets the effective initial-condition weight in physics-informed training**
+# How the weak-form discretization rescales the initial-condition penalty in physics-informed training
 
 Ayush Gouda · Swaraag Hebbar N · Aditya Prakash · Sudheendra B S
 RV Institute of Technology and Management (RVITM), Bengaluru
